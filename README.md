@@ -1,4 +1,4 @@
-# LunalUIWidgets
+# LunalUI Widgets
 The next generation of Windows widgets.
 
 ### Download
